@@ -1,3 +1,10 @@
+# Basic Usage
+`pip install hatch`
+`hatch env create`
+`hatch shell`
+`python src\pepper_x_2\main.py`
+
+
 # Pepper-X Version 2
 This second version of the Pepper-X data engine transforms the engine from a simple data engine into a versatile scripting engine. These scripting capabilities make it possible to run fetcher bots, trading bots, or any other scripts, arbitrary commands, or command chains in a robust and reliable system. 
 
