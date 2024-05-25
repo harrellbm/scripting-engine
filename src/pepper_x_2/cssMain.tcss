@@ -1,0 +1,20 @@
+CommandWindow {
+    background: $boost;
+    min-width: 50;
+}
+
+CommandInput { 
+}
+
+#commandIn {
+    
+}
+
+Button {
+    width: 16;
+    dock: right;
+}
+
+RichLog {
+    margin-left: 1;
+}

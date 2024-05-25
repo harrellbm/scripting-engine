@@ -1,0 +1,16 @@
+# Pepper-X V.2-Alpha 0
+- [x] Build basic textual UI
+    - [x] Start with the tutorial app code 
+    - [x] Header 
+        - [x] Customize title 
+    - [x] CommandWindow widget 
+        - [x] Input wrapped with built in suggester 
+        - [x] Button to execute command 
+        - [x] Add basic DKron commands to suggester
+        - [x] Add logic to execute the command
+        - [x] Rich Log window to display output from command
+            - [x] Logic to accepts the output from the child terminal 
+            - [x] Basic style for command output
+            - [x] Add variables that hold styling
+- [x] Footer 
+- [x] Basic css styling to make things look okay
